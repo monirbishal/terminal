@@ -1,4 +1,5 @@
 export * from './about';
+export * from './skills';
 export * from './projects';
 export * from './social';
 export * from './theme';

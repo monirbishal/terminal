@@ -82,6 +82,7 @@ The project is open-source 🎉 type 'repo' to check out the repository.
 
 New 🎉: Try out the new 'theme' command. See all available themes <a href="https://github.com/monirbishal/terminal/tree/master/docs/themes">in the docs</a>.
 New 🎉: New command 'neofetch', for you linux.
+Commands: about, skills, projects, github, email, 'help' for more..
 --
 `;
 };
