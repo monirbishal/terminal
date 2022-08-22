@@ -1,0 +1,10 @@
+{
+  "bioUrl": "https://raw.githubusercontent.com/monirbishal/portfolio/master/README.md",
+  "social": {
+    "instagram": "monirbishal",
+    "github": "monirbishal",
+    "linkedin": "monirbishal"
+  },
+  "theme": "gruvboxdark",
+  "border": true
+}
