@@ -16,7 +16,7 @@
     "url": "https://github.com/monirbishal/terminal"
   },
   "scripts": {
-    "start": "next start",
+    "start": "NODE_ENV=production node server.js",
     "build": "next build",
     "dev": "next dev",
     "next": "next",
